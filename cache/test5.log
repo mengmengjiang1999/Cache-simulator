@@ -1,0 +1,160 @@
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite back
+hit = 328467 miss = 173001
+miss rate = 0.344989
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite through
+hit = 328467 miss = 173001
+miss rate = 0.344989
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 384702 miss = 116766
+miss rate = 0.232848
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write through
+hit = 384702 miss = 116766
+miss rate = 0.232848
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite back
+hit = 497305 miss = 47209
+miss rate = 0.0866993
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite through
+hit = 497305 miss = 47209
+miss rate = 0.0866993
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 537887 miss = 6627
+miss rate = 0.0121705
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write through
+hit = 537887 miss = 6627
+miss rate = 0.0121705
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite back
+hit = 451107 miss = 56593
+miss rate = 0.111469
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite through
+hit = 451107 miss = 56593
+miss rate = 0.111469
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 484468 miss = 23232
+miss rate = 0.0457593
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write through
+hit = 484468 miss = 23232
+miss rate = 0.0457593
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite back
+hit = 483777 miss = 23664
+miss rate = 0.046634
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write no allocwrite through
+hit = 483777 miss = 23664
+miss rate = 0.046634
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 498357 miss = 9084
+miss rate = 0.0179016
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write through
+hit = 498357 miss = 9084
+miss rate = 0.0179016
+==============================================

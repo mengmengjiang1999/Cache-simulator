@@ -1,0 +1,200 @@
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 4
+way = 0
+policy = P_LRU
+write no allocwrite back
+hit = 310732 miss = 190736
+miss rate = 0.380355
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 4
+way = 0
+policy = P_LRU
+write no allocwrite through
+hit = 310732 miss = 190736
+miss rate = 0.380355
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 4
+way = 0
+policy = P_LRU
+write alloc write back
+hit = 353458 miss = 148010
+miss rate = 0.295153
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 4
+way = 0
+policy = P_LRU
+write alloc write through
+hit = 353458 miss = 148010
+miss rate = 0.295153
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 0
+policy = P_LRU
+write no allocwrite back
+hit = 328476 miss = 172992
+miss rate = 0.344971
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 0
+policy = P_LRU
+write no allocwrite through
+hit = 328476 miss = 172992
+miss rate = 0.344971
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 0
+policy = P_LRU
+write alloc write back
+hit = 384828 miss = 116640
+miss rate = 0.232597
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 0
+policy = P_LRU
+write alloc write through
+hit = 384828 miss = 116640
+miss rate = 0.232597
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 16
+way = 0
+policy = P_LRU
+write no allocwrite back
+hit = 342897 miss = 158571
+miss rate = 0.316214
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 16
+way = 0
+policy = P_LRU
+write no allocwrite through
+hit = 342897 miss = 158571
+miss rate = 0.316214
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 16
+way = 0
+policy = P_LRU
+write alloc write back
+hit = 407493 miss = 93975
+miss rate = 0.1874
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 16
+way = 0
+policy = P_LRU
+write alloc write through
+hit = 407493 miss = 93975
+miss rate = 0.1874
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 32
+way = 0
+policy = P_LRU
+write no allocwrite back
+hit = 356211 miss = 145257
+miss rate = 0.289664
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 32
+way = 0
+policy = P_LRU
+write no allocwrite through
+hit = 356211 miss = 145257
+miss rate = 0.289664
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 32
+way = 0
+policy = P_LRU
+write alloc write back
+hit = 453357 miss = 48111
+miss rate = 0.0959403
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 32
+way = 0
+policy = P_LRU
+write alloc write through
+hit = 453357 miss = 48111
+miss rate = 0.0959403
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 64
+way = 0
+policy = P_LRU
+write no allocwrite back
+hit = 361026 miss = 140442
+miss rate = 0.280062
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 64
+way = 0
+policy = P_LRU
+write no allocwrite through
+hit = 361026 miss = 140442
+miss rate = 0.280062
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 64
+way = 0
+policy = P_LRU
+write alloc write back
+hit = 476560 miss = 24908
+miss rate = 0.0496702
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 64
+way = 0
+policy = P_LRU
+write alloc write through
+hit = 476560 miss = 24908
+miss rate = 0.0496702
+==============================================

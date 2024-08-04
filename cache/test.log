@@ -1,0 +1,120 @@
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_PLRU
+write alloc write back
+hit = 384689 miss = 116779
+miss rate = 0.232874
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 384702 miss = 116766
+miss rate = 0.232848
+==============================================
+==============================================
+filename = ./trace/astar.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_RANDOM
+write alloc write back
+hit = 384970 miss = 116498
+miss rate = 0.232314
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_PLRU
+write alloc write back
+hit = 537887 miss = 6627
+miss rate = 0.0121705
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 537887 miss = 6627
+miss rate = 0.0121705
+==============================================
+==============================================
+filename = ./trace/bzip2.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_RANDOM
+write alloc write back
+hit = 537887 miss = 6627
+miss rate = 0.0121705
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_PLRU
+write alloc write back
+hit = 484468 miss = 23232
+miss rate = 0.0457593
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 484468 miss = 23232
+miss rate = 0.0457593
+==============================================
+==============================================
+filename = ./trace/mcf.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_RANDOM
+write alloc write back
+hit = 484369 miss = 23331
+miss rate = 0.0459543
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_PLRU
+write alloc write back
+hit = 498392 miss = 9049
+miss rate = 0.0178326
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_LRU
+write alloc write back
+hit = 498357 miss = 9084
+miss rate = 0.0179016
+==============================================
+==============================================
+filename = ./trace/perlbench.trace
+cache size = 128
+block size = 8
+way = 8
+policy = P_RANDOM
+write alloc write back
+hit = 498358 miss = 9083
+miss rate = 0.0178996
+==============================================

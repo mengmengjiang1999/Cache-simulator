@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="cache" targetName="cache" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d06c937b-5b0a-4bc0-acb9-25ee605e221b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2020OOP/1.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/1.4/func.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/1.4/test5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/1.4/test6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/1.4/test7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/2.3/test4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/2.3/test7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020OOP/2.3/test8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validMask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validMask/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Androids/Chenkaiwen_News-master-3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/abstract8.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/error6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/fibonacci.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda7.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda8.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambda9.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/lambdabad1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/nqueues.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/abstract8.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/error6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/fibonacci.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda7.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda8.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambda9.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/lambdabad1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/nqueues.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test3.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test4.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test5.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/test6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var1.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var2.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/result/var6.result" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test3.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test4.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test5.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/test6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var1.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var2.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/S1/var6.decaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/lambda/lambda1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/lambda/lambda2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/output8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jacc/Decaf.jacc" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jacc/Decaf.jacc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jflex/Decaf.jflex" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProject/decaf-PA1-A/src/main/jflex/Decaf.jflex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/2019hw02.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/2019hw02.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/2019hw02/dialog_ask_buythecourse.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/QTExcelTest.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/QTExcelTest.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/QTExcelTest/mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/ask/widget.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/ask/widget.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/askform.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/askform.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/mainwindow.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtProjects/test/test.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtProjects/test/test.pro" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-135748321">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="5" />
+          <entry key="cpp" value="19" />
+          <entry key="h" value="38" />
+          <entry key="log" value="6" />
+          <entry key="makefile" value="1" />
+          <entry key="o" value="1" />
+          <entry key="sh" value="20" />
+          <entry key="trace" value="41" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="20" />
+          <entry key="CMakeCache.txt" value="1" />
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="Log" value="5" />
+          <entry key="Makefile" value="3" />
+          <entry key="ObjectiveC" value="57" />
+          <entry key="PLAIN_TEXT" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="5136" />
+          <entry key="h" value="6904" />
+          <entry key="makefile" value="155" />
+          <entry key="sh" value="93" />
+          <entry key="trace" value="9" />
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="93" />
+          <entry key="CMakeLists.txt" value="27" />
+          <entry key="Doxygen file" value="1" />
+          <entry key="Makefile" value="155" />
+          <entry key="ObjectiveC" value="12039" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cache.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding>
+                <element signature="e#41#59#0" expanded="true" />
+                <element signature="e#2518#2591#0" expanded="true" />
+                <element signature="e#3001#3037#0" expanded="true" />
+                <element signature="e#3331#3363#0" expanded="true" />
+                <element signature="e#3445#3513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policy_lru.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#97#128#0" expanded="true" />
+                <element signature="e#2682#2738#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policy_plru.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding>
+                <element signature="e#99#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policy_random.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#102#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qsl_astar_plur.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/policy_node.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test5.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test4.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>outputbin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/policy_lru.cpp" />
+        <option value="$PROJECT_DIR$/policy_mru.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/policy_random.h" />
+        <option value="$PROJECT_DIR$/policy_plru.h" />
+        <option value="$PROJECT_DIR$/replacement_policy.cpp" />
+        <option value="$PROJECT_DIR$/makefile" />
+        <option value="$PROJECT_DIR$/build.sh" />
+        <option value="$PROJECT_DIR$/trace/test.trace" />
+        <option value="$PROJECT_DIR$/cache.cpp" />
+        <option value="$PROJECT_DIR$/replacement_policy.h" />
+        <option value="$PROJECT_DIR$/policy_lru.h" />
+        <option value="$PROJECT_DIR$/generage_log.sh" />
+        <option value="$PROJECT_DIR$/quanxianglian.sh" />
+        <option value="$PROJECT_DIR$/test.sh" />
+        <option value="$PROJECT_DIR$/qxl_astar_lru.sh" />
+        <option value="$PROJECT_DIR$/quanxianglian_test.log" />
+        <option value="$PROJECT_DIR$/cache.h" />
+        <option value="$PROJECT_DIR$/policy_node.h" />
+        <option value="$PROJECT_DIR$/test4.sh" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/test5.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="trace" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/trace" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.cache">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cache" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cache" TARGET_NAME="cache" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cache" RUN_TARGET_NAME="cache">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.cache" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06c937b-5b0a-4bc0-acb9-25ee605e221b" name="Default Changelist" comment="" />
+      <created>1586189507737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586189507737</updated>
+      <workItem from="1586189509691" duration="33526000" />
+      <workItem from="1586290577700" duration="40000" />
+      <workItem from="1586290643945" duration="643000" />
+      <workItem from="1586291365876" duration="111000" />
+      <workItem from="1586322378564" duration="13848000" />
+      <workItem from="1586336302619" duration="16323000" />
+      <workItem from="1586527572085" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64837000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="844" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.397351" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="make" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/policy_random.cpp" />
+    <entry file="file://$PROJECT_DIR$/policy_plru.cpp" />
+    <entry file="file://$PROJECT_DIR$/policy_lru.cpp" />
+    <entry file="file://$PROJECT_DIR$/replacement_state.cpp" />
+    <entry file="file://$PROJECT_DIR$/policy_mru.cpp" />
+    <entry file="file://$PROJECT_DIR$/policy_node.cpp" />
+    <entry file="file://$PROJECT_DIR$/replacement_state.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5045" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replacement_policy.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh" />
+    <entry file="file://$PROJECT_DIR$/main.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/bzip2.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/astar.trace">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="554">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="1800">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generage.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="367">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_mru.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanxianglian.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qxl_astar_random.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-872" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qxl_bzip2_random.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qxl_bzip2_plru.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qxl_bzip2_lru.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quanxianglian_test.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qxl_astar_lru.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generage_log.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1718">
+          <caret line="964" column="30" selection-start-line="964" selection-start-column="30" selection-end-line="964" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="84" column="50" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replacement_policy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/canneal.uniq.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/perlbench.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/mcf.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/streamcluster.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/gcc.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/swim.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/test.trace">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/twolf.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trace/bodytrack_1m.trace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#41#59#0" expanded="true" />
+            <element signature="e#2518#2591#0" expanded="true" />
+            <element signature="e#3001#3037#0" expanded="true" />
+            <element signature="e#3331#3363#0" expanded="true" />
+            <element signature="e#3445#3513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_lru.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#97#128#0" expanded="true" />
+            <element signature="e#2682#2738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_plru.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="e#99#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_random.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#102#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qsl_astar_plur.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy_node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

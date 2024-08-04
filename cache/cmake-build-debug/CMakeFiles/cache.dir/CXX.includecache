@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenzm/Projects/CLionProjects/cache/policy_node.h
+cstdint
+-
+
+/Users/chenzm/Projects/CLionProjects/cache/replacement_policy.cpp
+replacement_policy.h
+/Users/chenzm/Projects/CLionProjects/cache/replacement_policy.h
+
+/Users/chenzm/Projects/CLionProjects/cache/replacement_policy.h
+cstdint
+-
+assert.h
+-
+iostream
+-
+cmath
+/Users/chenzm/Projects/CLionProjects/cache/cmath
+policy_node.h
+/Users/chenzm/Projects/CLionProjects/cache/policy_node.h
+

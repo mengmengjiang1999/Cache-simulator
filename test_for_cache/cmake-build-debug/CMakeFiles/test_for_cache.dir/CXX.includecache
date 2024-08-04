@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenzm/Projects/CLionProjects/test_for_cache/main.cpp
+assert.h
+-
+iostream
+-
+cmath
+/Users/chenzm/Projects/CLionProjects/test_for_cache/cmath
+
